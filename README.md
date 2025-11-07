@@ -48,21 +48,6 @@ This project bridges the gap between abstract mathematical principles and real-w
 
 ---
 
-## 🏗️ Project Structure
-
-com.discretemath.connectsphere/
-│
-├── config/ # Database configuration
-├── database/ # DatabaseManager (SQLite schema setup)
-├── model/ # Core models (User, FriendRequest, Recommendation)
-├── service/ # Logic for users, friends, and recommendations
-└── ui/ # Swing UI panels (Login, Register, Dashboard, Requests)
-
-yaml
-Copy code
-
----
-
 ## 🚀 How to Run
 
 ### 🔧 Requirements
@@ -73,7 +58,7 @@ Copy code
 ### ▶️ Steps
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/ConnectSphere
+   git clone https://github.com/SujalThakkar/ConnectSphere
    cd ConnectSphere
 Open the project in VS Code or IntelliJ
 
